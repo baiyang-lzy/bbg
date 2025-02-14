@@ -63,7 +63,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
-    "@eslint/js": "^9.19.0",
+    "@eslint/js": "^9.20.0",
     "docsify": "^4.13.1",
     "electron": "^34.0.2",
     "electron-builder": "^25.1.8",
